@@ -1,4 +1,4 @@
-# week12: Machine Learning Assignment
+# Week12: Machine Learning Assignment
 
 ## Sentiment Analysis
 
